@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 * **YouTube:** [Opiyo Sebastian](https://www.youtube.com/channel/UCSr6MooK42cIGT1eo_0OfJg)
 * **LinkedIn:** [Opiyo Alex Sebastian](https://www.linkedin.com/in/opiyo-alex-sebastian-4ab31270/)
-* **Twitter:** [@OPIYOALEXSEBAST](https://twitter.com/OPIYOALEXSEBAST)
 
 ### I am available to create softwares, videos, courses, or articles on the following topics:
 
