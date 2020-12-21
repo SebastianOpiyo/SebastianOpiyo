@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * **LinkedIn:** [Opiyo Alex Sebastian](https://www.linkedin.com/in/opiyo-alex-sebastian-4ab31270/)
 * **Twitter:** [@OPIYOALEXSEBAST](https://twitter.com/OPIYOALEXSEBAST)
 
-### I am available to create software, videos, courses, or articles on the following topics:
+### I am available to create softwares, videos, courses, or articles on the following topics:
 
 * AI/ML
 * Automation/Robotics
