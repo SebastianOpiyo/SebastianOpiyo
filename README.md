@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * Vue.js | React.js | GraphQL
 * JavaScript
 * Sass
-* Django
+* Django | Flask
 * Python
 * Blockchain
 * Ethical Hacking/Digital Security
