@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Sebastian Opiyo
+## I'm Sebastian Opiyo
 
 <!--
 **SebastianOpiyo/SebastianOpiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###### ***Software Consultant*** | ***Content Creator***
+
+* **YouTube:** [Opiyo Sebastian](https://www.youtube.com/channel/UCSr6MooK42cIGT1eo_0OfJg)
+* **LinkedIn:** [Opiyo Alex Sebastian](https://www.linkedin.com/in/opiyo-alex-sebastian-4ab31270/)
+* **Twitter:** [@OPIYOALEXSEBAST](https://twitter.com/OPIYOALEXSEBAST)
+
+### I am available to create software, videos, courses, or articles on the following topics:
+
+* AI/ML
+* Automation/Robotics
+* DevOps & Cloud Computing
+* Vue.js
+* JavaScript
+* Sass
+* Django
+* Python
+* Blockchain
+* Ethical Hacking/Digital Security
+
+### My GitHub stats
+
+This doesn't take into account the work done in forks, organizations, or private repos.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=SebastianOpiyo&show_icons=true)
