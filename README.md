@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 * Blockchain
 * Ethical Hacking/Digital Security
 
+### Live demo of some of my work:
+* **Church Website:** [Likuyani Catholi Church](https://likuyanicatholic.it-sealops.com/)
+* **Company Website:** [IT-SealOps](http://it-sealops.com/)
+
 ### My GitHub stats
 
 This doesn't take into account the work done in forks, organizations, or private repos.
