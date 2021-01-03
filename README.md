@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 * Ethical Hacking/Digital Security
 
 ### Live demo of some of my work:
-* **Church Website:** [Likuyani Catholi Church](https://likuyanicatholic.it-sealops.com/)
+* **Church Website:** [Likuyani Catholic Church](https://likuyanicatholic.it-sealops.com/)
 * **Company Website:** [IT-SealOps](http://it-sealops.com/)
 
 ### My GitHub stats
