@@ -23,19 +23,21 @@ Here are some ideas to get you started:
 
 ### I am available to create softwares, videos, courses, or articles on the following topics:
 
-* AI/ML
-* Automation/Robotics
-* DevOps & Cloud Computing
-* Vue.js | React.js | GraphQL
-* JavaScript
-* Sass
-* Django | Flask
-* Python
-* Blockchain
-* Ethical Hacking/Digital Security
+* - 🔭 AI/ML
+* - 🔭 Automation/Robotics
+* - 🔭 DevOps & Cloud Computing
+* - 🔭 Vue.js | React.js | GraphQL
+* - 🔭 JavaScript
+* - 🔭 Sass
+* - 🔭 Django | Flask
+* - 🔭 Python
+* - 🔭 Blockchain
+* - 🔭 Ethical Hacking/Digital Security
+- 👯 I’m looking to collaborate on Javascript/Typescript & Python based projects.
 
 ### Live demo of some of my work:
-* **Church Website:** [Likuyani Catholic Church](https://likuyanicatholic.it-sealops.com/)
+* **Plutus Capital(WIP):** [Plutus Capital](http://hisa.africa/)
+* **Church Website(WIP):** [Likuyani Catholic Church](https://likuyanicatholic.it-sealops.com/)
 * **Company Website:** [IT-SealOps](http://it-sealops.com/)
 
 ### My GitHub stats
