@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Javascript/Typescript & Python based projects.
 
 ### Live demo of some of my work:
-* **Plutus Capital(WIP):** [Plutus Capital](http://hisa.africa/)
-* **Church Website(WIP):** [Likuyani Catholic Church](https://likuyanicatholic.it-sealops.com/)
+* **Due to signed NDA, most of my clients would not entertain my listing of their products!
+* **Mgcc-africa(WIP):** []()
+* **Church Website(WIP):** []()
 * **Company Website:** [IT-SealOps](http://it-sealops.com/)
 
 ### My GitHub stats
