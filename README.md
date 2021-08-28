@@ -25,20 +25,13 @@ Here are some ideas to get you started:
 
 * - 🔭 AI/ML
 * - 🔭 Automation/Robotics
-* - 🔭 DevOps & Cloud Computing
-* - 🔭 Vue.js | React.js | GraphQL
-* - 🔭 JavaScript
-* - 🔭 Sass
-* - 🔭 Django | Flask
-* - 🔭 Python
-* - 🔭 Blockchain
+* - 🔭 Fullstack Developer
+* - 🔭 JavaScript, Php, Python (Note: A programming language is just any other tool to me...)
+* - 🔭 Linux
 * - 🔭 Ethical Hacking/Digital Security
-- 👯 I’m looking to collaborate on Javascript/Typescript & Python based projects.
+- 👯 I’m looking to collaborate on Javascript/Typescript & Python based projects and any other!
 
 ### Live demo of some of my work:
-* **Due to signed NDA, most of my clients would not entertain my listing of their products!
-* **Mgcc-africa(WIP):** []()
-* **Church Website(WIP):** []()
 * **Company Website:** [IT-SealOps](http://it-sealops.com/)
 
 ### My GitHub stats
