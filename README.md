@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 * - 🔭 JavaScript, Php, Python
 * - 🔭 Linux
 * - 🔭 Ethical Hacking/Digital Security
+- 🔭 I’m currently developing backend APIs
 - 👯 I’m looking to collaborate on interesting projects without limits!
-- - 🔭 I’m currently developing backend APIs
+
 
 ### 💬 Get to know me, check:
 * **Company Website:** [IT-SealOps](http://it-sealops.com/)
