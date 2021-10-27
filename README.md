@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 
 ### I am available to create softwares, videos, courses, or articles on the following topics:
 
-* - 🔭 Fullstack Developer
+* - 🔭 Fullstack Software Developement
 * - 🔭 JavaScript, Php, Python
 * - 🔭 Linux
 * - 🔭 Ethical Hacking/Digital Security
 - 👯 I’m looking to collaborate on interesting projects without limits!
+- - 🔭 I’m currently developing backend APIs
 
-### My Company:
+### 💬 Get to know me, check:
 * **Company Website:** [IT-SealOps](http://it-sealops.com/)
 
 ### My GitHub stats
