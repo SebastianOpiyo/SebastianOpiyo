@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###### ***✨ Software & Cyber Security Engineer ✨***| ***✨ Mentor ✨***
+###### ✨ Software & Cyber Security Engineer ✨
 
 * **YouTube:** [Opiyo Sebastian](https://www.youtube.com/channel/UCSr6MooK42cIGT1eo_0OfJg)
 * **LinkedIn:** [Opiyo Alex Sebastian](https://www.linkedin.com/in/opiyo-alex-sebastian-4ab31270/)
