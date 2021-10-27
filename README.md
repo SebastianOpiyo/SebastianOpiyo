@@ -16,22 +16,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###### ***Software Consultant*** | ***Content Creator*** | ***Mentor***
+###### ***✨ Software & Cyber Security Engineer ✨***| ***✨ Mentor ✨***
 
 * **YouTube:** [Opiyo Sebastian](https://www.youtube.com/channel/UCSr6MooK42cIGT1eo_0OfJg)
 * **LinkedIn:** [Opiyo Alex Sebastian](https://www.linkedin.com/in/opiyo-alex-sebastian-4ab31270/)
 
 ### I am available to create softwares, videos, courses, or articles on the following topics:
 
-* - 🔭 AI/ML
-* - 🔭 Automation/Robotics
 * - 🔭 Fullstack Developer
-* - 🔭 JavaScript, Php, Python (Note: A programming language is just any other tool to me...)
+* - 🔭 JavaScript, Php, Python
 * - 🔭 Linux
 * - 🔭 Ethical Hacking/Digital Security
-- 👯 I’m looking to collaborate on Javascript/Typescript & Python based projects and any other!
+- 👯 I’m looking to collaborate on interesting projects without limits!
 
-### Live demo of some of my work:
+### My Company:
 * **Company Website:** [IT-SealOps](http://it-sealops.com/)
 
 ### My GitHub stats
