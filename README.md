@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###### ✨ Software & Cyber Security Engineer ✨
+###### :computer: ✨ Software & Cyber Security Engineer ✨
 
 * **YouTube:** [Opiyo Sebastian](https://www.youtube.com/channel/UCSr6MooK42cIGT1eo_0OfJg)
 * **LinkedIn:** [Opiyo Alex Sebastian](https://www.linkedin.com/in/opiyo-alex-sebastian-4ab31270/)
@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 This doesn't take into account the work done in forks, organizations, or private repos.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SebastianOpiyo&show_icons=true)
+
+## Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&langs_count=8)](https://github.com/SebastianOpiyo/github-readme-stats)
 
 ### Did you know ?
 - ⚡ Fun fact: ...I play chess, am self-taught software engineer, and I love it!!!
