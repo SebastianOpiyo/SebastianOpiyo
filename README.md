@@ -42,7 +42,7 @@ This doesn't take into account the work done in forks, organizations, or private
 
 ## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianOpiyo&langs_count=*)](https://github.com/SebastianOpiyo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianOpiyo&langs_count=15)](https://github.com/SebastianOpiyo/github-readme-stats)
 
 ### Did you know ?
 - ⚡ Fun fact: ...I play chess, am self-taught software engineer, and I love it!!!
