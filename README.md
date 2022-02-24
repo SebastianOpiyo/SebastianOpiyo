@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 :sparkles: I love working/playing with the following:
 
 * -:pushpin: Fullstack Software Developement
-* -:pushpin: JavaScript, Php, Python, :fire: Haskell
-* -:pushpin: Linux
+* -:pushpin: C, C++, JavaScript, Php, Python, :fire: Haskell
+* -:pushpin: Linux & Windows
 * -:pushpin: Ethical Hacking/Digital Security
 - 🔭 I’m currently learning, developing, and teaching anything software
 - 👯 I’m looking to collaborate on interesting projects in tech without limits!
