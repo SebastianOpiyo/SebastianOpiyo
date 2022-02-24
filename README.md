@@ -18,10 +18,15 @@ Here are some ideas to get you started:
 -->
 ###### :computer: ✨ Software & Cyber Security Engineer ✨
 
-* **YouTube:** [Opiyo Sebastian](https://www.youtube.com/channel/UCSr6MooK42cIGT1eo_0OfJg)
+### 💬 Get to know me, check:
 * **LinkedIn:** [Opiyo Alex Sebastian](https://www.linkedin.com/in/opiyo-alex-sebastian-4ab31270/)
 
-:sparkles: I love the following:
+<!--
+* **YouTube:** [Opiyo Sebastian](https://www.youtube.com/channel/UCSr6MooK42cIGT1eo_0OfJg)
+* **Company Website:** [IT-SealOps](http://it-sealops.com/)
+-->
+
+:sparkles: I love working/playing with the following:
 
 * -:pushpin: Fullstack Software Developement
 * -:pushpin: JavaScript, Php, Python, :fire: Haskell
@@ -30,9 +35,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently learning, developing, and teaching anything software
 - 👯 I’m looking to collaborate on interesting projects in tech without limits!
 
-
-### 💬 Get to know me, check:
-* **Company Website:** [IT-SealOps](http://it-sealops.com/)
 
 ### My GitHub stats
 
