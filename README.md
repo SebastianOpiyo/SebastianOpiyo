@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 * - 🔭 JavaScript, Php, Python
 * - 🔭 Linux
 * - 🔭 Ethical Hacking/Digital Security
-- 🔭 I’m currently developing backend APIs
-- 👯 I’m looking to collaborate on interesting projects without limits!
+- 🔭 I’m currently learning, developing, and teaching anything software
+- 👯 I’m looking to collaborate on interesting projects in tech without limits!
 
 
 ### 💬 Get to know me, check:
@@ -42,7 +42,7 @@ This doesn't take into account the work done in forks, organizations, or private
 
 ## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianOpiyo&langs_count=15)](https://github.com/SebastianOpiyo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianOpiyo&langs_count=5)](https://github.com/SebastianOpiyo/github-readme-stats)
 
 ### Did you know ?
 - ⚡ Fun fact: ...I play chess, am self-taught software engineer, and I love it!!!
