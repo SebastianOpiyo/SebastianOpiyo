@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Sebastian Opiyo
+## :construction_worker: I'm Sebastian Opiyo ✨
 
 <!--
 **SebastianOpiyo/SebastianOpiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
