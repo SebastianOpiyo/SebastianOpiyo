@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ###:sparkles: I love the following:
 
-* - 🔭 Fullstack Software Developement
-* - 🔭 JavaScript, Php, Python, :fire: Haskell
-* - 🔭 Linux
-* - 🔭 Ethical Hacking/Digital Security
+* -:pushpin: Fullstack Software Developement
+* -:pushpin: JavaScript, Php, Python, :fire: Haskell
+* -:pushpin: Linux
+* -:pushpin: Ethical Hacking/Digital Security
 - 🔭 I’m currently learning, developing, and teaching anything software
 - 👯 I’m looking to collaborate on interesting projects in tech without limits!
 
