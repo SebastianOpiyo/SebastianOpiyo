@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 * **YouTube:** [Opiyo Sebastian](https://www.youtube.com/channel/UCSr6MooK42cIGT1eo_0OfJg)
 * **LinkedIn:** [Opiyo Alex Sebastian](https://www.linkedin.com/in/opiyo-alex-sebastian-4ab31270/)
 
-### I am available to create softwares, videos, courses, or articles on the following topics:
+###:sparkles: I love the following:
 
 * - 🔭 Fullstack Software Developement
-* - 🔭 JavaScript, Php, Python
+* - 🔭 JavaScript, Php, Python, :fire: Haskell
 * - 🔭 Linux
 * - 🔭 Ethical Hacking/Digital Security
 - 🔭 I’m currently learning, developing, and teaching anything software
