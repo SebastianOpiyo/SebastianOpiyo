@@ -42,9 +42,9 @@ This doesn't take into account the work done in forks, organizations, or private
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SebastianOpiyo&show_icons=true)
 
-## Programming Languages
+<!-- ## Programming Languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianOpiyo&langs_count=5)](https://github.com/SebastianOpiyo/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianOpiyo&langs_count=5)](https://github.com/SebastianOpiyo/github-readme-stats) -->
 
 ### Did you know ?
 - ⚡ Fun fact: ...I play chess, am self-taught software & cyber security engineer, and I can learn anything I set my mind to. I might be an :alien:
