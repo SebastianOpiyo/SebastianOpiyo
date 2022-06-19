@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 * **Company Website:** [IT-SealOps](http://it-sealops.com/)
 -->
 
-:sparkles: I love working/playing with the following:
+:sparkles: I work to be the best in the following:
 
 * -:pushpin: Fullstack Software Developement
-* -:pushpin: C, C++, JavaScript, Php, Python, :fire: Haskell
-* -:pushpin: Linux & Windows
+* -:pushpin: Python(1st best),JavaScript(2nd best), C, C++, , Php, Java , :fire: Haskell
+* -:pushpin: AI & ML Projects
 * -:pushpin: Ethical Hacking/Digital Security
-- 🔭 I’m currently learning, developing, and teaching anything software
+- 🔭 I’m currently learning, developing, and teaching anything software craftmanship
 - 👯 I’m looking to collaborate on interesting projects in tech without limits!
 
 
