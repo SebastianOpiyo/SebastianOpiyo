@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###### :computer: ✨ Software & Cyber Security Engineer ✨
+###### :computer: ✨ Software & Cyber Security Engineer ✨ :spanner:
 
-### 💬 Get to know me, check:
+### 💬 Get to know more about me, check:
 * **LinkedIn:** [Opiyo Alex Sebastian](https://www.linkedin.com/in/opiyo-alex-sebastian-4ab31270/)
 
 <!--
@@ -26,25 +26,9 @@ Here are some ideas to get you started:
 * **Company Website:** [IT-SealOps](http://it-sealops.com/)
 -->
 
-:sparkles: I work to be the best in the following:
-
-* -:pushpin: Fullstack Software Developement
-* -:pushpin: Python(1st best),JavaScript(2nd best), C, C++, , Php, Java , :fire: Haskell
-* -:pushpin: AI & ML Projects
-* -:pushpin: Ethical Hacking/Digital Security
-- 🔭 I’m currently learning, developing, and teaching anything software craftmanship
-- 👯 I’m looking to collaborate on interesting projects in tech without limits!
-
-
-### My GitHub stats
-
-This doesn't take into account the work done in forks, organizations, or private repos.
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=SebastianOpiyo&show_icons=true)
-
 <!-- ## Programming Languages -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianOpiyo&langs_count=5)](https://github.com/SebastianOpiyo/github-readme-stats) -->
 
 ### Did you know ?
-⚡ Fun fact: ...I play chess, am self-taught software & cyber security engineer, and I can learn anything I set my mind to. I might be an :alien:
+⚡ Fun fact: I might be an :alien:
