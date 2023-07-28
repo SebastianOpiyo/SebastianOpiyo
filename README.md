@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###### :computer: ✨ Software & Cyber Security Engineer ✨ :spanner:
+###### :computer: ✨ Software & Cyber Security Engineer ✨
 
 ### 💬 Get to know more about me, check:
 * **LinkedIn:** [Opiyo Alex Sebastian](https://www.linkedin.com/in/opiyo-alex-sebastian-4ab31270/)
@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianOpiyo&langs_count=5)](https://github.com/SebastianOpiyo/github-readme-stats) -->
 
-### Did you know ?
-⚡ Fun fact: I might be an :alien:
+⚡ Fun fact: I am an :alien: in this field!
